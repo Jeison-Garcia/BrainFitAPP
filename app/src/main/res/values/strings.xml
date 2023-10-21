@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">BrainFit</string>
+    <string name="app_description">¡Entrena tu mente con diversión! \n\nNuestra app móvil de juegos desafiantes te ayudará a mejorar tus habilidades cognitivas mientras te diviertes.\n</string>
+    <string name="sign_up_text">Registrarse</string>
+    <string name="welcome_text">Bienvenido(a)</string>
+    <string name="Name_text">Nombre y Apellido</string>
+    <string name="gender_text">Género</string>
+    <string name="email_text">Correo electronico</string>
+    <string name="password_text">Constraseña</string>
+    <string name="welcome">¡Hola %1$s!</string>
+    <string name="confirmation_message">Su cuenta ha sido creada con exito.\n\nLos datos de acceso son:\nCorreo: %1$s\nContraseña: %2$s\nGénero: %3$s</string>
+    <string name="exit_Text">Salir</string>
+    <string name="editable_text">TextView</string>
+    <string name="Image_description">Cerrar</string>
+</resources>
